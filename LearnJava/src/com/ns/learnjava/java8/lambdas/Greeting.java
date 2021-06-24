@@ -1,4 +1,4 @@
-package com.ns.learnjava.lambdas;
+package com.ns.learnjava.java8.lambdas;
 
 @FunctionalInterface
 public interface Greeting {
