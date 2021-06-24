@@ -1,4 +1,4 @@
-package com.ns.learnjava.lambdas.exceptions;
+package com.ns.learnjava.java8.lambdas.exception;
 
 import java.util.function.BiConsumer;
 
